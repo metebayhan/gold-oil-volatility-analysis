@@ -49,6 +49,3 @@ The project requires two CSV files in the same directory:
 The script prints:
 - Gold return variance
 - Crude oil return variance
-
-## Author
-Necati Metehan Bayhan
